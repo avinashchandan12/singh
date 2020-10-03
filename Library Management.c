@@ -18,6 +18,9 @@ Q Design a program with C and DS to maintain (Stroage, Retrieval, Updation)
   After issue stock qty of a book is decreased by 1 and return it is
     increased by 1.
   Proper Message should display, If constrataints violated.
+  
+  Please do not copy the whole code for submition, do code by yourself first, look at this code only when you stuck somewhere and not able to solve by yourself..
+  good luck, Happy Coding
 */
 #include<stdio.h>
 #include<conio.h>
